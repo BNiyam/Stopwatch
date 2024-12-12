@@ -16,6 +16,6 @@ int main() {
 
     elapsed = difftime(end, start);
     printf("Elapsed time: %.2f seconds\n", elapsed);
-
+    print("This program was made by Niyam");
     return 0;
 }
